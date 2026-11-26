@@ -1,0 +1,6 @@
+{
+  "name": "Trading Bot",
+  "description": "Advanced MT5 Exness trading bot with real-time multi-timeframe charts, on-chart order visualization, technical signal analysis, automated 10-pip take profit, and 15-pip stop loss risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
